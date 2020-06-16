@@ -1,0 +1,11 @@
+{
+  "name": "extensiontutorial",
+  "version": "1.0.0",
+  "description": "chrome extention tutorial",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "author": "kenjiro.isomura",
+  "license": "MIT"
+}
